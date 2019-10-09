@@ -1,367 +1,367 @@
-Москва
-Санкт-Петербург
-Новосибирск
-Екатеринбург
-Нижний Новгород
-Казань
-Челябинск
-Омск
-Самара
-Ростов-на-Дону
-Уфа
-Красноярск
-Воронеж
-Пермь
-Волгоград
-Краснодар
-Саратов
-Тюмень
-Тольятти
-Ижевск
-Барнаул
-Ульяновск
-Иркутск
-Хабаровск
-Ярославль
-Владивосток
-Махачкала
-Томск
-Оренбург
-Кемерово
-Новокузнецк
-Рязань
-Астрахань
-Набережные Челны
-Пенза
-Киров
-Липецк
-Чебоксары
-Балашиха
-Калининград
-Тула
-Курск
-Севастополь
-Сочи
-Ставрополь
-Улан-Удэ
-Тверь
-Магнитогорск
-Иваново
-Брянск
-Белгород
-Сургут
-Владимир
-Нижний Тагил
-Чита
-Архангельск
-Симферополь
-Калуга
-Смоленск
-Волжский
-Якутск
-Саранск
-Череповец
-Курган
-Вологда
-Орёл
-Владикавказ
-Подольск
-Грозный
-Мурманск
-Тамбов
-Петрозаводск
-Стерлитамак
-Нижневартовск
-Кострома
-Новороссийск
-Йошкар-Ола
-Химки
-Таганрог
-Комсомольск-на-Амуре
-Сыктывкар
-Нижнекамск
-Нальчик
-Шахты
-Дзержинск
-Орск
-Братск
-Благовещенск
-Энгельс
-Ангарск
-Королёв
-Великий Новгород
-Старый Оскол
-Мытищи
-Псков
-Люберцы
-Южно-Сахалинск
-Бийск
-Прокопьевск
-Армавир
-Балаково
-Рыбинск
-Абакан
-Северодвинск
-Норильск
-Петропавловск-Камчатский
-Уссурийск
-Волгодонск
-Красногорск
-Сызрань
-Новочеркасск
-Каменск-Уральский
-Златоуст
-Электросталь
-Альметьевск
-Салават
-Миасс
-Керчь
-Копейск
-Находка
-Пятигорск
-Хасавюрт
-Рубцовск
-Березники
-Коломна
-Майкоп
-Одинцово
-Ковров
-Кисловодск
-Домодедово
-Нефтекамск
-Нефтеюганск
-Батайск
-Новочебоксарск
-Серпухов
-Щёлково
-Дербент
-Новомосковск
-Черкесск
-Первоуральск
-Раменское
-Назрань
-Каспийск
-Кызыл
-Обнинск
-Орехово-Зуево
-Новый Уренгой
-Невинномысск
-Димитровград
-Октябрьский
-Долгопрудный
-Камышин
-Ессентуки
-Муром
-Жуковский
-Евпатория
-Новошахтинск
-Северск
-Реутов
-Пушкино
-Артём
-Ноябрьск
-Ачинск
-Арзамас
-Бердск
-Елец
-Элиста
-Ногинск
-Сергиев Посад
-Новокуйбышевск
-Железногорск
-KABUL
-TIRANA
-ALGIERS
-ANDORRA LA VELLA
-LUANDA
-SAINT JOHN'S
-BUENOS AIRES
-YEREVAN
-CANBERRA
-VIENNA
-BAKU
-NASSAU
-MANAMA
-DHAKA
-BRIDGETOWN
-MINSK
-BRUSSELS
-BELMOPAN
-PORTO-NOVO
-THIMPHU
-SUCRE
-SARAJEVO
-GABORONE
-BRASILIA
-BANDAR SERI BEGAWAN
-SOFIA
-OUAGADOUGOU
-BUJUMBURA
-PRAIA
-PHNOM PENH
-YAOUNDE
-OTTAWA
-BANGUI
-N'DJAMENA
-SANTIAGO
-BEIJING
-BOGOTA
-MORONI
-KINSHASA
-SAN JOSE
-YAMOUSSOUKRO
-ZAGREB
-HAVANA
-NICOSIA
-PRAGUE
-COPENHAGEN
-DJIBOUTI 
-ROSEAU
-SANTO DOMINGO
-QUITO
-CAIRO
-SAN SALVADOR
-MALABO
-ASMARA
-TALLINN
-MBABANE
-ADDIS ABABA
-PALIKIR
-SUVA
-HELSINKI
-PARIS
-LIBREVILLE
-BANJUL
-TBILISI
-BERLIN
-ACCRA
-ATHENS
-SAINT GEORGE'S
-GUATEMALA CITY
-CONAKRY
-BISSAU
-GEORGETOWN
-PORT-AU-PRINCE
-TEGUCIGALPA
-BUDAPEST
-REYKJAVIK
-NEW DELHI
-JAKARTA
-TEHRAN
-BAGHDAD
-DUBLIN
-JERUSALEM
-ROME
-KINGSTON
-TOKYO
-AMMAN
-ASTANA
-NAIROBI
-SOUTH TARAWA
-PRISTINA
-KUWAIT CITY
-BISHKEK
-VIENTIANE
-RIGA
-BEIRUT
-MASERU
-MONROVIA
-TRIPOLI
-VADUZ
-VILNIUS
-LUXEMBOURG
-ANTANANARIVO
-LILONGWE
-KUALA LUMPUR
-MALE
-BAMAKO
-VALLETTA
-MAJURO
-NOUAKCHOTT
-PORT LOUIS
-MEXICO CITY
-CHISINAU
-MONACO
-ULAANBAATAR
-PODGORICA
-RABAT
-MAPUTO
-NAY PYI TAW
-WINDHOEK
-YAREN DISTRICT
-KATHMANDU
-AMSTERDAM
-WELLINGTON
-MANAGUA
-NIAMEY
-ABUJA
-PYONGYANG
-SKOPJE
-OSLO
-MUSCAT
-ISLAMABAD
-NGERULMUD
-EAST JERUSALEM
-PANAMA CITY
-PORT MORESBY
-ASUNCION
-LIMA
-MANILA
-WARSAW
-LISBON
-DOHA
-BRAZZAVILLE
-BUCHAREST
-MOSCOW
-KIGALI
-BASSETERRE
-CASTRIES
-KINGSTOWN
-APIA
-SAN MARINO
-SAO TOME
-RIYADH
-DAKAR
-BELGRADE
-VICTORIA
-FREETOWN
-SINGAPORE
-BRATISLAVA
-LJUBLJANA
-HONIARA
-MOGADISHU
-BLOEMFONTEIN
-SEOUL
-JUBA
-MADRID
-COLOMBO
-KHARTOUM
-PARAMARIBO
-STOCKHOLM
-BERN
-DAMASCUS
-DUSHANBE
-DODOMA
-BANGKOK
-DILI
-LOME
-NUKU?ALOFA
-PORT OF SPAIN
-TUNIS
-ANKARA
-ASHGABAT
-FUNAFUTI
-KAMPALA
-KIEV
-ABU DHABI
-LONDON
-WASHINGTON
-MONTEVIDEO
-TASHKENT
-PORT VILA
-VATICAN CITY
-CARACAS
-HANOI
-SANA'A
-LUSAKA
-HARARE
+РњРѕСЃРєРІР°
+РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі 
+РќРѕРІРѕСЃРёР±РёСЂСЃРє 
+Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі 
+РќРёР¶РЅРёР№ РќРѕРІРіРѕСЂРѕРґ 
+РљР°Р·Р°РЅСЊ 
+Р§РµР»СЏР±РёРЅСЃРє 
+РћРјСЃРє 
+РЎР°РјР°СЂР° 
+Р РѕСЃС‚РѕРІ-РќР°-Р”РѕРЅСѓ 
+РЈС„Р° 
+РљСЂР°СЃРЅРѕСЏСЂСЃРє 
+Р’РѕСЂРѕРЅРµР¶ 
+РџРµСЂРјСЊ 
+Р’РѕР»РіРѕРіСЂР°Рґ 
+РљСЂР°СЃРЅРѕРґР°СЂ 
+РЎР°СЂР°С‚РѕРІ 
+РўСЋРјРµРЅСЊ 
+РўРѕР»СЊСЏС‚С‚Рё 
+РР¶РµРІСЃРє 
+Р‘Р°СЂРЅР°СѓР» 
+РЈР»СЊСЏРЅРѕРІСЃРє 
+РСЂРєСѓС‚СЃРє 
+РҐР°Р±Р°СЂРѕРІСЃРє 
+РЇСЂРѕСЃР»Р°РІР»СЊ 
+Р’Р»Р°РґРёРІРѕСЃС‚РѕРє 
+РњР°С…Р°С‡РєР°Р»Р° 
+РўРѕРјСЃРє 
+РћСЂРµРЅР±СѓСЂРі 
+РљРµРјРµСЂРѕРІРѕ 
+РќРѕРІРѕРєСѓР·РЅРµС†Рє 
+Р СЏР·Р°РЅСЊ 
+РђСЃС‚СЂР°С…Р°РЅСЊ 
+РќР°Р±РµСЂРµР¶РЅС‹Рµ Р§РµР»РЅС‹ 
+РџРµРЅР·Р° 
+РљРёСЂРѕРІ 
+Р›РёРїРµС†Рє 
+Р§РµР±РѕРєСЃР°СЂС‹ 
+Р‘Р°Р»Р°С€РёС…Р° 
+РљР°Р»РёРЅРёРЅРіСЂР°Рґ 
+РўСѓР»Р° 
+РљСѓСЂСЃРє 
+РЎРµРІР°СЃС‚РѕРїРѕР»СЊ 
+РЎРѕС‡Рё 
+РЎС‚Р°РІСЂРѕРїРѕР»СЊ 
+РЈР»Р°РЅ-РЈРґСЌ 
+РўРІРµСЂСЊ 
+РњР°РіРЅРёС‚РѕРіРѕСЂСЃРє 
+РРІР°РЅРѕРІРѕ 
+Р‘СЂСЏРЅСЃРє 
+Р‘РµР»РіРѕСЂРѕРґ 
+РЎСѓСЂРіСѓС‚ 
+Р’Р»Р°РґРёРјРёСЂ 
+РќРёР¶РЅРёР№ РўР°РіРёР» 
+Р§РёС‚Р° 
+РђСЂС…Р°РЅРіРµР»СЊСЃРє 
+РЎРёРјС„РµСЂРѕРїРѕР»СЊ 
+РљР°Р»СѓРіР° 
+РЎРјРѕР»РµРЅСЃРє 
+Р’РѕР»Р¶СЃРєРёР№ 
+РЇРєСѓС‚СЃРє 
+РЎР°СЂР°РЅСЃРє 
+Р§РµСЂРµРїРѕРІРµС† 
+РљСѓСЂРіР°РЅ 
+Р’РѕР»РѕРіРґР° 
+РћСЂС‘Р» 
+Р’Р»Р°РґРёРєР°РІРєР°Р· 
+РџРѕРґРѕР»СЊСЃРє 
+Р“СЂРѕР·РЅС‹Р№ 
+РњСѓСЂРјР°РЅСЃРє 
+РўР°РјР±РѕРІ 
+РџРµС‚СЂРѕР·Р°РІРѕРґСЃРє 
+РЎС‚РµСЂР»РёС‚Р°РјР°Рє 
+РќРёР¶РЅРµРІР°СЂС‚РѕРІСЃРє 
+РљРѕСЃС‚СЂРѕРјР° 
+РќРѕРІРѕСЂРѕСЃСЃРёР№СЃРє 
+Р™РѕС€РєР°СЂ-РћР»Р° 
+РҐРёРјРєРё 
+РўР°РіР°РЅСЂРѕРі 
+РљРѕРјСЃРѕРјРѕР»СЊСЃРє-РќР°-РђРјСѓСЂРµ 
+РЎС‹РєС‚С‹РІРєР°СЂ 
+РќРёР¶РЅРµРєР°РјСЃРє 
+РќР°Р»СЊС‡РёРє 
+РЁР°С…С‚С‹ 
+Р”Р·РµСЂР¶РёРЅСЃРє 
+РћСЂСЃРє 
+Р‘СЂР°С‚СЃРє 
+Р‘Р»Р°РіРѕРІРµС‰РµРЅСЃРє 
+Р­РЅРіРµР»СЊСЃ 
+РђРЅРіР°СЂСЃРє 
+РљРѕСЂРѕР»С‘РІ 
+Р’РµР»РёРєРёР№ РќРѕРІРіРѕСЂРѕРґ 
+РЎС‚Р°СЂС‹Р№ РћСЃРєРѕР» 
+РњС‹С‚РёС‰Рё 
+РџСЃРєРѕРІ 
+Р›СЋР±РµСЂС†С‹ 
+Р®Р¶РЅРѕ-РЎР°С…Р°Р»РёРЅСЃРє 
+Р‘РёР№СЃРє 
+РџСЂРѕРєРѕРїСЊРµРІСЃРє 
+РђСЂРјР°РІРёСЂ 
+Р‘Р°Р»Р°РєРѕРІРѕ 
+Р С‹Р±РёРЅСЃРє 
+РђР±Р°РєР°РЅ 
+РЎРµРІРµСЂРѕРґРІРёРЅСЃРє 
+РќРѕСЂРёР»СЊСЃРє 
+РџРµС‚СЂРѕРїР°РІР»РѕРІСЃРє-РљР°РјС‡Р°С‚СЃРєРёР№ 
+РЈСЃСЃСѓСЂРёР№СЃРє 
+Р’РѕР»РіРѕРґРѕРЅСЃРє 
+РљСЂР°СЃРЅРѕРіРѕСЂСЃРє 
+РЎС‹Р·СЂР°РЅСЊ 
+РќРѕРІРѕС‡РµСЂРєР°СЃСЃРє 
+РљР°РјРµРЅСЃРє-РЈСЂР°Р»СЊСЃРєРёР№ 
+Р—Р»Р°С‚РѕСѓСЃС‚ 
+Р­Р»РµРєС‚СЂРѕСЃС‚Р°Р»СЊ 
+РђР»СЊРјРµС‚СЊРµРІСЃРє 
+РЎР°Р»Р°РІР°С‚ 
+РњРёР°СЃСЃ 
+РљРµСЂС‡СЊ 
+РљРѕРїРµР№СЃРє 
+РќР°С…РѕРґРєР° 
+РџСЏС‚РёРіРѕСЂСЃРє 
+РҐР°СЃР°РІСЋСЂС‚ 
+Р СѓР±С†РѕРІСЃРє 
+Р‘РµСЂРµР·РЅРёРєРё 
+РљРѕР»РѕРјРЅР° 
+РњР°Р№РєРѕРї 
+РћРґРёРЅС†РѕРІРѕ 
+РљРѕРІСЂРѕРІ 
+РљРёСЃР»РѕРІРѕРґСЃРє 
+Р”РѕРјРѕРґРµРґРѕРІРѕ 
+РќРµС„С‚РµРєР°РјСЃРє 
+РќРµС„С‚РµСЋРіР°РЅСЃРє 
+Р‘Р°С‚Р°Р№СЃРє 
+РќРѕРІРѕС‡РµР±РѕРєСЃР°СЂСЃРє 
+РЎРµСЂРїСѓС…РѕРІ 
+Р©С‘Р»РєРѕРІРѕ 
+Р”РµСЂР±РµРЅС‚ 
+РќРѕРІРѕРјРѕСЃРєРѕРІСЃРє 
+Р§РµСЂРєРµСЃСЃРє 
+РџРµСЂРІРѕСѓСЂР°Р»СЊСЃРє 
+Р Р°РјРµРЅСЃРєРѕРµ 
+РќР°Р·СЂР°РЅСЊ 
+РљР°СЃРїРёР№СЃРє 
+РљС‹Р·С‹Р» 
+РћР±РЅРёРЅСЃРє 
+РћСЂРµС…РѕРІРѕ-Р—СѓРµРІРѕ 
+РќРѕРІС‹Р№ РЈСЂРµРЅРіРѕР№ 
+РќРµРІРёРЅРЅРѕРјС‹СЃСЃРє 
+Р”РёРјРёС‚СЂРѕРІРіСЂР°Рґ 
+РћРєС‚СЏР±СЂСЊСЃРєРёР№ 
+Р”РѕР»РіРѕРїСЂСѓРґРЅС‹Р№ 
+РљР°РјС‹С€РёРЅ 
+Р•СЃСЃРµРЅС‚СѓРєРё 
+РњСѓСЂРѕРј 
+Р–СѓРєРѕРІСЃРєРёР№ 
+Р•РІРїР°С‚РѕСЂРёСЏ 
+РќРѕРІРѕС€Р°С…С‚РёРЅСЃРє 
+РЎРµРІРµСЂСЃРє 
+Р РµСѓС‚РѕРІ 
+РџСѓС€РєРёРЅРѕ 
+РђСЂС‚С‘Рј 
+РќРѕСЏР±СЂСЊСЃРє 
+РђС‡РёРЅСЃРє 
+РђСЂР·Р°РјР°СЃ 
+Р‘РµСЂРґСЃРє 
+Р•Р»РµС† 
+Р­Р»РёСЃС‚Р° 
+РќРѕРіРёРЅСЃРє 
+РЎРµСЂРіРёРµРІ РџРѕСЃР°Рґ 
+РќРѕРІРѕРєСѓР№Р±С‹С€РµРІСЃРє 
+Р–РµР»РµР·РЅРѕРіРѕСЂСЃРє
+Kabul
+Tirana
+Algiers
+Andorra La Vella
+Luanda
+Saint John'S
+Buenos Aires
+Yerevan
+Canberra
+Vienna
+Baku
+Nassau
+Manama
+Dhaka
+Bridgetown
+Minsk
+Brussels
+Belmopan
+Porto-Novo
+Thimphu
+Sucre
+Sarajevo
+Gaborone
+Brasilia
+Bandar Seri Begawan
+Sofia
+Ouagadougou
+Bujumbura
+Praia
+Phnom Penh
+Yaounde
+Ottawa
+Bangui
+N'Djamena
+Santiago
+Beijing
+Bogota
+Moroni
+Kinshasa
+San Jose
+Yamoussoukro
+Zagreb
+Havana
+Nicosia
+Prague
+Copenhagen
+Djibouti 
+Roseau
+Santo Domingo
+Quito
+Cairo
+San Salvador
+Malabo
+Asmara
+Tallinn
+Mbabane
+Addis Ababa
+Palikir
+Suva
+Helsinki
+Paris
+Libreville
+Banjul
+Tbilisi
+Berlin
+Accra
+Athens
+Saint George'S
+Guatemala City
+Conakry
+Bissau
+Georgetown
+Port-Au-Prince
+Tegucigalpa
+Budapest
+Reykjavik
+New Delhi
+Jakarta
+Tehran
+Baghdad
+Dublin
+Jerusalem
+Rome
+Kingston
+Tokyo
+Amman
+Astana
+Nairobi
+South Tarawa
+Pristina
+Kuwait City
+Bishkek
+Vientiane
+Riga
+Beirut
+Maseru
+Monrovia
+Tripoli
+Vaduz
+Vilnius
+Luxembourg
+Antananarivo
+Lilongwe
+Kuala Lumpur
+Male
+Bamako
+Valletta
+Majuro
+Nouakchott
+Port Louis
+Mexico City
+Chisinau
+Monaco
+Ulaanbaatar
+Podgorica
+Rabat
+Maputo
+Nay Pyi Taw
+Windhoek
+Yaren District
+Kathmandu
+Amsterdam
+Wellington
+Managua
+Niamey
+Abuja
+Pyongyang
+Skopje
+Oslo
+Muscat
+Islamabad
+Ngerulmud
+East Jerusalem
+Panama City
+Port Moresby
+Asuncion
+Lima
+Manila
+Warsaw
+Lisbon
+Doha
+Brazzaville
+Bucharest
+Moscow
+Kigali
+Basseterre
+Castries
+Kingstown
+Apia
+San Marino
+Sao Tome
+Riyadh
+Dakar
+Belgrade
+Victoria
+Freetown
+Singapore
+Bratislava
+Ljubljana
+Honiara
+Mogadishu
+Bloemfontein
+Seoul
+Juba
+Madrid
+Colombo
+Khartoum
+Paramaribo
+Stockholm
+Bern
+Damascus
+Dushanbe
+Dodoma
+Bangkok
+Dili
+Lome
+Nuku-Alofa
+Port Of Spain
+Tunis
+Ankara
+Ashgabat
+Funafuti
+Kampala
+Kiev
+Abu Dhabi
+London
+Washington
+Montevideo
+Tashkent
+Port Vila
+Vatican City
+Caracas
+Hanoi
+Sana'A
+Lusaka
+Harare
