@@ -34,6 +34,8 @@ def t_9(string):
 
 @bot.message_handler(content_types=['text'])
 def send_weather(message):
+    #answer = "Добро пожаловать в weatherbot, напиши название города в котором ты находишься \n"
+
     inputs = t_9(message.text)
     observation = owm.weather_at_place(inputs)
     status = observation.get_weather()
@@ -51,9 +53,11 @@ def send_weather(message):
     elif status.get_detailed_status() == "гроза":
         emoji = "🌩️"
     elif status.get_detailed_status() == "дождь":
-        emoji = "⛆"
-    else:
         emoji = "🌧️"
+    elif status.get_detailed_status() == "снег":
+        emoji = "🌨️"
+    else:
+        emoji = "🌦️"
 
     answer = "В городе " + inputs + " сейчас: "+status.get_detailed_status() + emoji +"\n"
     answer += "Температура в районе: " + str(round(temp)) + "℃"+"\n"
